@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "i+1bKF/jdDduNlO3SDvE4CdItNeqBKOvvfQNITl8YzAxehute222+MHkRKbV5PXwr5fg7Jqvz8L9knHqMWh1Jg==",
+  "success": true,
+  "projectFilePath": "D:\\healthcare_web_core_api\\healthcare_web_core_api\\healthcare_web_core_api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shubham.mukherjee\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\shubham.mukherjee\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\shubham.mukherjee\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\shubham.mukherjee\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\shubham.mukherjee\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\shubham.mukherjee\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

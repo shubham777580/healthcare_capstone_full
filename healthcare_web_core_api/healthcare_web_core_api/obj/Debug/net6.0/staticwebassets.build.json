@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WUhGEObe3pNd8GlTbkvLFeyJa/cm7DRc3o9AkqS9kQg=",
+  "Source": "healthcare_web_core_api",
+  "BasePath": "_content/healthcare_web_core_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
